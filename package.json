@@ -1,0 +1,9 @@
+{
+  "name": "django-tailwinds",
+  "version": "1.0-djangov1",
+  "homepage": "https://tailwindcss.com/docs/installation",
+  "repository": "",
+  "author": "Truix",
+  "license": "MIT",
+  "main": "js/index.min.js"
+}
